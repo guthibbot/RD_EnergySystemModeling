@@ -47,7 +47,7 @@ The study investigates six key scenarios to evaluate the system's response to va
 ## Results
 The project outputs include:
 - **Figures**: illustrating system dynamics and extreme events (located in the figures/ folder).
-- **Networks**: Solved networks with modified configurations (available in the networks/output/ folder).
+- **Networks**: Solved networks with modified configurations (available at https://aarhusuniversitet-my.sharepoint.com/:f:/g/personal/au579459_uni_au_dk/Ej13MIQqfIBCoYuQkP6gV6ABaYEyEjrcOhU1VKu2eyHBRg?e=jSy7RR).
 - **Report**: Comprehensive findings and analyses in the project report.
 - **References**: Key references include: Grochowicz et al. (2024), "Using power system modelling outputs to identify weather-induced extreme events in highly renewable systems."
 
