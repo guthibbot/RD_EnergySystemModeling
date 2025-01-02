@@ -1,0 +1,14 @@
+# Ignore specific files
+.ipynb_checkpoints
+*.nc
+gurobi.lic
+
+# Ignore all files in a specific directory
+**/OLD/
+GeoData/
+scripts/__pycache__/
+networks/workflow_data/
+figures/unscaled/
+
+# Ignore all `.log` files in the repository
+*.ipynb_checkpoints
