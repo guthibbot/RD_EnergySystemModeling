@@ -36,12 +36,13 @@ The study investigates six key scenarios to evaluate the system's response to va
 
 ## Usage Instructions
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/energy-systems-modelling.git
-   cd energy-systems-modelling
-2. pip install -r requirements.txt
-3. python scripts/scenario1.py
-4. bash scripts/run_all.sh
+      git clone https://github.com/guthibbot/RD_EnergySystemModeling.git
+      cd RD_EnergySystemModeling
+2. Install the python environment:
+      mamba env create -f env.yml
+4. Choose the scripts to run or run them all using the bash file:
+      python scripts/EXAMPLE.py
+      bash scripts/sbatch.sh
 
 ## Results
 The project outputs include:
