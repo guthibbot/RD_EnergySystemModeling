@@ -1,6 +1,6 @@
 # Energy Systems Modelling: Extreme Events in Highly Renewable Networks
 This repository contains the materials and scripts for a research project investigating extreme events in highly renewable energy systems using the [PyPSA](https://pypsa.org/) framework.
-The study evaluates the robustness of extreme event definitions under varying network configurations and provides insights into system resilience.
+The study analyses extreme events under varying network configurations and provides insights into system resilience.
 
 ## Project Overview
 With the growing adoption of renewable energy systems, understanding their vulnerabilities to extreme events caused by weather variability is critical.

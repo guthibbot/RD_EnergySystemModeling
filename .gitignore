@@ -9,6 +9,7 @@ GeoData/
 scripts/__pycache__/
 networks/workflow_data/
 figures/unscaled/
+figures/svg/
 
 # Ignore all `.log` files in the repository
 *.ipynb_checkpoints
