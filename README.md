@@ -22,17 +22,12 @@ The repository is organized as follows:
 
 ## Key Scenarios
 The study investigates six key scenarios to evaluate the system's response to various configurations:
-1. **Unchanged Network**: Baseline network taken from Grochowicz et al. (2024).
+1. **Base Scenario Network**: Baseline network taken from Grochowicz et al. (2024).
 2. **Changed Snapshot**: Specific extreme event periods removed to analyze cost redistribution.
 3. **Changed Energy Mix**: Renewable shares adjusted to optimal levels (e.g., 60% wind, 30% solar).
 4. **Storage Extremes**: Storage capacity scaled up and down to evaluate temporal balancing effects.
 5. **Transmission Extremes**: Transmission capacity scaled to explore spatial balancing dynamics.
 6. **Combined Scenarios**: Interactions between storage, transmission, and energy mix.
-
-## Key Findings
-- **Storage**: Adequate storage smooths nodal prices, reduces system costs, and mitigates extreme events.
-- **Transmission**: Enhanced transmission reduces localized stress but cannot fully eliminate Europe-wide mismatches.
-- **Energy Mix**: Increasing renewable shares dampens extreme events but requires careful configuration to avoid cost spikes.
 
 ## Usage Instructions
 1. Clone the repository:
